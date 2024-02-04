@@ -39,11 +39,7 @@ const Demo: React.FC<DemoProps> = () => {
         </PopoverContent>
       </Popover>
 
-      {/* <div style={{ marginTop: '10px' }}>
-        {chips.map((chip, index) => (
-          <Chip key={index}>{chip}</Chip>
-        ))}
-      </div> */}
+      
     </>
   );
 };
